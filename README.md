@@ -27,10 +27,6 @@ https://www.fab.com/listings/4a8e3702-559a-45db-be22-16ef27a4ff5a - materials
 
 
 
-https://stock.adobe.com/search/images?k=space - skybox
-
-
-
 https://www.fab.com/listings/2eb46f6e-bd8a-4a8e-aac2-b6a2a70234e8 - rubber for grappling hook
 
 
