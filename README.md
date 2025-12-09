@@ -3,7 +3,12 @@
 (All third party assets have been removed from this version of the repo and need to be gathered elsewhere)
 
 Submission for Unreal game coursework C15515
-Team: Vince Benitez, Tom Hewett, Aryan Rallan and Adam Tohma
+Team: 
+Design and Programming lead + Visual design: Tom Hewett
+
+Programmers: Vince Benitez, Aryan Rallan 
+
+Audio Design: Adam Tohma
 
 
 
